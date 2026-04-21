@@ -64,3 +64,7 @@ nb-configuration.xml
 ########
 node_modules
 .env
+
+
+###
+oc.exe
